@@ -12,3 +12,6 @@ public class car{
 Car bmw = new Car
 Car maruti = new Car
 }
+
+
+car is the vechile 
